@@ -7,3 +7,6 @@ In this paper I discuss the relative importance of uranium isotopes for fission 
 
 ### Background 
 Uranium is a heavy element with common isotopes U-235 and U-238
+
+Plutoniumm is not as efficient as producing Mo-99 
+
